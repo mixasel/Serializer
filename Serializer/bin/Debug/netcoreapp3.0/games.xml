@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Title>The Elder Scrolls III: Morrowind</Title>
+    <Company>
+      <Name>Bethesda</Name>
+    </Company>
+    <Price>600</Price>
+  </Game>
+  <Game>
+    <Title>Gothic 2</Title>
+    <Company>
+      <Name>Piranha Bytes</Name>
+    </Company>
+    <Price>300</Price>
+  </Game>
+  <Game>
+    <Title>Dark Souls 3</Title>
+    <Company>
+      <Name>From Software</Name>
+    </Company>
+    <Price>1200</Price>
+  </Game>
+</ArrayOfGame>

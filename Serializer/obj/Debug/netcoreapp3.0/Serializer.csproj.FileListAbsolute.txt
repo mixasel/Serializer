@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\Projects\Serializer\Serializer\obj\Debug\netcoreapp3.0\Serializer.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Projects\Serializer\Serializer\obj\Debug\netcoreapp3.0\Serializer.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Projects\Serializer\Serializer\obj\Debug\netcoreapp3.0\Serializer.AssemblyInfo.cs
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.exe
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.deps.json
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.runtimeconfig.json
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.runtimeconfig.dev.json
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.dll
+D:\Visual Studio 2019\Projects\Serializer\Serializer\bin\Debug\netcoreapp3.0\Serializer.pdb
+D:\Visual Studio 2019\Projects\Serializer\Serializer\obj\Debug\netcoreapp3.0\Serializer.dll
+D:\Visual Studio 2019\Projects\Serializer\Serializer\obj\Debug\netcoreapp3.0\Serializer.pdb
